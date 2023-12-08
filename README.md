@@ -1,4 +1,4 @@
-# Olá! 
+# Seja bem vindo!
 ## Eu sou o Guilherme Emschermann, profissional com carreira em evolução na área de Data Analysis e CRM - Customer Relationship Management.
 <div>
   <a href="https://github.com/guilherme-emschermann">
