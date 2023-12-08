@@ -1,9 +1,9 @@
 # Seja bem vindo!
 ## Eu sou o Guilherme Emschermann, profissional com carreira em evolução na área de Data Analysis e CRM - Customer Relationship Management.
 
-💼 **Atualmente realizo trabalho autônomo com objetivo de proporcionar dedicação para área de tecnologia e estratégia de negócios**
-📖 **Estudando CRM Marketing, Business Intelligence, Salesforce Básico e Analytics**
-💻 **Habilidades em Linguagem SQL e Excel**
+* 💼 **Atualmente realizo trabalho autônomo com objetivo de proporcionar dedicação para área de tecnologia e estratégia de negócios**
+* 📖 **Estudando CRM Marketing, Business Intelligence, Salesforce Básico e Analytics**
+* 💻 **Habilidades em Linguagem SQL e Excel**
 
 <div>
   <a href="https://github.com/guilherme-emschermann">
