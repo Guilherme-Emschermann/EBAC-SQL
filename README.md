@@ -4,7 +4,7 @@
 * 💼 **Atualmente realizo trabalho autônomo com objetivo de proporcionar dedicação para área de tecnologia e estratégia de negócios**
 * 📖 **Estudando CRM Marketing, Business Intelligence, Salesforce Básico e Analytics**
 * 💻 **Habilidades em Linguagem SQL e Excel**
-
+##
 <div>
   <a href="https://github.com/guilherme-emschermann">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-emschermann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
